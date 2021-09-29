@@ -1,0 +1,245 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+#lft
+{
+	width:19%;
+	min-height:820px;
+	background-color:#1e272e;
+	float:left;
+	margin-right:10px;
+   
+
+	
+}
+#head
+{
+	width:100%;
+	height:50px;
+	background-color:#ffffff;
+	float:right;
+	
+}
+
+#admin_pic
+{
+	width:100%;
+	height:200px;
+	background-color:green;
+	margin:auto;
+}
+#dash
+{
+	height:700px;
+	width:100%;
+	background-color:;
+
+
+}
+#cover
+{
+	width:81%;
+	height:770px;
+	float:right;
+	background-color:#eceff1;
+	
+}
+
+#cover1,#cover2,#cover3
+{
+	display:flex;
+	justify-content:space-around;
+}
+
+
+	
+
+#cover1 .a,#cover2 .a,#cover3 .a
+{
+	width:1000px;
+	height:360px;
+	background-color:#ffffff;
+	margin:60px;
+}
+
+
+	
+#heading
+{
+	font-size:20px;
+	margin-left:36%;
+}
+#heading1
+{
+	font-size:20px;
+	
+}
+#menu
+{
+	color:white;
+}
+#lft1
+{
+	background-color:;
+	width:100%;
+	height:600px;
+	margin-top:;
+}
+ul li a{
+	font-size:20px;
+	color:white;
+}
+#lists li a,#lists1 li a,#lists2 li a
+{
+	font-size:20px;
+}
+table tr td
+{
+	font-size:30px;
+	
+}
+#flex
+{
+	width:81%;
+	min-height:640px;
+	float:right;
+	background-color:white;
+	margin-right:10%;
+}
+#nav{
+	height:50px;
+}
+#t1 tr td
+{
+	padding:25px;
+}
+.t
+{
+	width:2000px;
+	height:200px;
+	border-radius:30px;
+	font-size:70px;
+}
+#t2
+{
+	margin:auto;
+	
+}
+#body
+{
+	background-color:#1e272e;
+	
+}
+
+
+ 
+ #add2
+ {
+	 background-color:teal;
+	 border-radius:20px;
+	 width:40%;
+	 height:130px;
+	 font-size:80px;
+	 
+	 
+ }
+ #food_category
+{
+	width:92%;
+	height:400px;
+	background-color:;
+	margin:auto;
+	margin-top:5%;
+}
+.t
+{
+	width:400px;
+	height:40px;
+	border-radius:10px;
+	font-size:20px;
+	
+}
+#t1 tr td
+{
+	padding:25px;
+
+}
+#t1{
+		width:400px;;
+}
+
+ #add
+ {
+	 background-color:teal;
+	 border-radius:20px;
+	 width:900x;
+ }
+ #food_cat{
+	 width:400px;
+	height:40px;
+	font-size:20px;
+
+ }
+ #b1
+ {
+	 width:400px;
+	 min-height:40px;
+	 	font-size:20px;
+		border-radius:20px;
+		background-color:teal;
+		
+ }
+#area
+{
+	font-size:10px;
+}
+.normal,.heading
+{
+	font-size:30px;
+	
+}
+.normal1
+{
+	font-size:30px;
+	color:blue;
+}
+
+.normal2
+{
+	font-size:80px;
+	color:#4cd137;
+}
+
+#veiw1
+{
+	font-size:60px;
+	color:white;
+	width:400px;
+	height:100px;
+}
+td .a
+{
+	width:400px;
+	height:28px;
+}
+#sorder
+{
+	width:360px;
+	height:80px;
+	font-size:80px;
+}
+
+#t2{
+	height:400px;
+}
+
+ #bel1
+{
+	float:right;
+	font-size:20px;
+	background-color:;
+	margin-top:;
+}
+

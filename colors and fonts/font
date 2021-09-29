@@ -1,0 +1,19 @@
+Fonts:
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Kalam&display=swap" rel="stylesheet"> 
+font-family: 'Kalam', ;
+
+
+<link href="https://fonts.googleapis.com/css?family=Kalam|Nunito|Ubuntu|Work+Sans&display=swap" rel="stylesheet">
+
+
+    font-family: 'Kalam', ;
+
+    font-family: 'Nunito', ;
+
+    font-family: 'Ubuntu', ;
+
+    font-family: 'Work Sans', ;
+

@@ -1,0 +1,24 @@
+#footerm ul li{
+	display:inline;
+	color:red;
+}
+table 
+{
+	
+}
+b
+{
+	color:green;
+	background-color:;
+}
+.square_btn{
+    display: inline-block;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    color: #FF4500;
+    border: dashed 2px #FF4500;
+    border-radius: 3px;
+    transition: .4s;
+
+}
+
